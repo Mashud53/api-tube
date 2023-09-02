@@ -89,7 +89,7 @@ const handleLoadContent = async (categoryId) => {
 const blogButton = document.getElementById('btn-blog');
 
 blogButton.addEventListener('click', function () {
-    window.location.href ="../blog/index.html";
+    window.location.href ="./blog/index.html";
     
     
 
